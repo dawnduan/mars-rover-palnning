@@ -18,9 +18,9 @@ Due on: April 8, 2017
 
 **Group Members:** 
 
-Sining Qin (qinsinin)
+S. Q
 
-Mengli Duan (duanmeng)
+Dawn Duan
 
 
 
