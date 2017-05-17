@@ -18,7 +18,7 @@ Due on: April 8, 2017
 
 **Group Members:** 
 
-S. Q
+S. Qin
 
 Dawn Duan
 
