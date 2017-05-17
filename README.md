@@ -186,7 +186,7 @@ The notion of using standardized languages, e.g. PDDL, todefine domains and prob
 
  
 
-![img](file:////Users/Dawn/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image002.gif)
+![img](./Figure1.png)
 
 Figure 1: PDDL Paradigm
 
@@ -196,11 +196,11 @@ Figure 1: PDDL Paradigm
 
  
 
-![img](file:////Users/Dawn/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
+![img](./Picture2.png)
 
 Figure 2: Resulted Plan for the ADL Domain from a FFPlanner  
 
-![img](file:////Users/Dawn/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image006.gif)
+![img](./Picture3.png)
 
 Figure 3: Resulted Plan for the Simple STRIPS Domain from aFF Planner 
 
@@ -210,7 +210,7 @@ Figure 3: Resulted Plan for the Simple STRIPS Domain from aFF Planner
 
  
 
-![img](file:////Users/Dawn/Library/Group%20Containers/UBF8T346G9.Office/msoclip1/01/clip_image008.gif)
+![img](./Picture4.png)
 
 Figure 4: Resulted Plan for the Complex STRIPS Domain from aFF Planner 
 
