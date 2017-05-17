@@ -100,7 +100,7 @@ The waste of STRIPS’ expressivity has been corrected in *Method 2*, where ther
 
 This dilemma is handled by ADL’s support for **negative literal**, **equality**, and **conditionaleffects**. The final implementation of **Collect**is as follows:
 
-![Screenshot 2017-05-16 21.11.51](/Users/Dawn/Dropbox (Personal)/屏幕截图/Screenshot 2017-05-16 21.11.51.png)
+![alt text](./Table3.png)
 
 Figure: ADL implementation ofaction **Collect**
 
@@ -122,7 +122,7 @@ AI research on designs and implementations of cognitiveagents has been extensive
 
 ###### 4.1.1 AI Applications in the Video Game Industry [8] 
 
-###### In a general view, there are not a lot of practical use ofAI research yet because of the advancement of the topics. Video game industryis one of the fields that have great potential to employ AI technologies tosolve problems. However, it has not been fully explored yet.  Proactive behaviors of the NPCs are of agreat match to cognitive agents. “Proactive”, also called “thinking beforeaction”, refers to an agent being deliberate about potential outcomes ofactions. As one of the core features of cognitive agents, decision-making ingame development seems to be a promising application in terms of realizing this“thinking before acting” agents (NPCs) via an AI technique. The AI technique,namely classical planning, is one of the most fundamental forms of automatedplanning problems, i.e. deliberating about the effects of actions [8]. 
+In a general view, there are not a lot of practical use ofAI research yet because of the advancement of the topics. Video game industryis one of the fields that have great potential to employ AI technologies tosolve problems. However, it has not been fully explored yet.  Proactive behaviors of the NPCs are of agreat match to cognitive agents. “Proactive”, also called “thinking beforeaction”, refers to an agent being deliberate about potential outcomes ofactions. As one of the core features of cognitive agents, decision-making ingame development seems to be a promising application in terms of realizing this“thinking before acting” agents (NPCs) via an AI technique. The AI technique,namely classical planning, is one of the most fundamental forms of automatedplanning problems, i.e. deliberating about the effects of actions [8]. 
 
 However, there is clearly a gap between cognitive agents inacademia and the associated use in video game industry. The gap could be causedby some technical difficulties, viz. the high computational cost with respectto memory and computing time that requires. Thus, this may be hard to get theagents responsive under the real-time setting. Additionally, due to the lack ofcommunication with non-academic fields, AI research tends to have differentfocuses. As a result, it’s hard for game developers to directly utilize AIresearch as a helper tool to address some of the issues in the gaming designfields. Hence, an AI system-based tool for video game developing is on request.It needs to consider the usability to the developers, real-time efficiency andeffectiveness to relevant problems faced in gaming design. 
 
